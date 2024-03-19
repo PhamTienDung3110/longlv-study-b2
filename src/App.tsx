@@ -1,9 +1,9 @@
 import './App.css'
-import Login from './pages/Login'
+import Product from './pages/Product/Product'
 function App() {
   return (
     <div className='bg-gray-200 h-screen flex items-center justify-center'>
-      <Login></Login>
+      <Product/>
     </div>
   )
 }
